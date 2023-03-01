@@ -6,7 +6,6 @@ Backend developer
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [contact@furkan.app](mailto:contact@furkan.app)
-* 🚀  I'm currently working on [Penta Yazılım](http://pentayazilim.com)
 
 ### Skills
 
