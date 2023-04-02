@@ -1,7 +1,7 @@
 Hi 👋 My name is Furkan
 =======================
 
-Backend developer
+Full Stack developer
 -----------------
 
 * 🌍  I'm based in Istanbul, Turkey
